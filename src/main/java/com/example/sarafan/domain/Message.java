@@ -48,4 +48,8 @@ public class Message {
     public void setCreationDate(LocalDateTime creationDate) {
         this.creationDate = creationDate;
     }
+
+    public int method2(){
+        return 2;
+    }
 }
