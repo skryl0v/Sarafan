@@ -49,7 +49,7 @@ public class Message {
         this.creationDate = creationDate;
     }
 
-    public int method2(){
-        return 2;
+    public int metho3(){
+        return 3;
     }
 }
